@@ -1,0 +1,30 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #c3d1cbe1;
+  height: 95vh;
+  width: 95;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #3b583d;
+
+  
+}
+
+h1 {
+  font-weight: 800;
+  text-align: center;
+}
+
+.points {
+  margin: 50px;
+}
+
+.text-purple {
+  color: #3b583d;
+
+}
+
+.text-blue {
+  color: #744246;
+}
